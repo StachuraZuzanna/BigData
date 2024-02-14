@@ -1,3 +1,5 @@
 # Infrastruktura BigData
 Zadania dotyczące infrastruktury i problemów skali Big Data.
-Język SQL
+> Poznanie architektury Spark
+> Notatniki wykonane w DataBricks o formacie .DBC
+> Języki Python/Scala/SQL
